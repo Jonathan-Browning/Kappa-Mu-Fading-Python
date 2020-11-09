@@ -2,6 +2,9 @@
 
 The \kappa-\mu fading model implemented in python. Plots the theoretical and simulated envelope porbability density functions (PDFs)
 
+Further details of this model can be found in Yacoub's paper: 
+"The \kappa-\mu distribution and the \eta-\mu distribution".
+
 This project uses PySimpleGUI, numpy, scipy, matplotlib and tkinter.
 
 This project was developed on a windows OS, using Spyder IDE with Python 3.8. All the dependencies where installed by anaconda.
